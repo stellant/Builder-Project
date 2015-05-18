@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<PersistedData TerseType="1">
+<i>13</i>
+<i>1</i>
+<s>"DefaultProject"</s>
+<i>0</i>
+<i>0</i>
+<s>"English"</s>
+<i>1</i>
+<PointerList>
+	<s>
+		<s>"EAlarm"</s>
+	</s>
+	<s>
+		<s>"EAPMProxy"</s>
+	</s>
+	<s>
+		<s>"EAuthProxy"</s>
+	</s>
+	<s>
+		<s>"EDeploy"</s>
+	</s>
+	<s>
+		<s>"EEDDSrc"</s>
+	</s>
+	<s>
+		<s>"EEnterpriseProxy"</s>
+	</s>
+	<s>
+		<s>"ELogFile"</s>
+	</s>
+	<s>
+		<s>"ELogger"</s>
+	</s>
+	<s>
+		<s>"ERCon"</s>
+	</s>
+	<s>
+		<s>"EScriptManager"</s>
+	</s>
+	<s>
+		<s>"ESecurity"</s>
+	</s>
+	<s>
+		<s>"ESM"</s>
+	</s>
+	<s>
+		<s>"ETag"</s>
+	</s>
+	<s>
+		<s>"ETimer"</s>
+	</s>
+	<s>
+		<s>"EPKIManager"</s>
+	</s>
+</PointerList>
+<i>1</i>
+<i>1</i>
+</PersistedData>

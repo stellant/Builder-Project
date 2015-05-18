@@ -1,0 +1,9 @@
+[REGISTER]
+
+
+
+[RUN]
+a.bat ${device.modelNumber} ${device.serialNumber}
+
+
+[UNREGISTER]

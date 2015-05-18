@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<PersistedData moduleName="EScript" TerseType="1">
+<v>1</v>
+<Action name="RestartDevice" file="RestartDevice.seq" visible="1" />
+<Action name="BackupAxeda" file="BackupAxeda.seq" visible="1" />
+<Action name="DeployAxeda" file="DeployAxeda.seq" visible="1" />
+
+</PersistedData>
